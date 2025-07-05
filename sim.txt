@@ -1,0 +1,35 @@
+***********
+Calculating the ARE
+
+
+***********
+Simulation
+1. 2-D Model
+       Creating the objective function.
+       Optimising the objective function.
+       Plotting the behaviour
+
+2. 3-D Model
+       Creating the objective function.
+       Optimising the objective function.
+       Plotting the behaviour
+     
+3. Real Data Example
+    a) Star Data-
+       Creating the objective function.
+       Optimising the objective function.
+       Plotting the behaviour
+       Calculating the regression coefficient and unknown error variance
+     
+    b) Telephone Data-
+       Creating the objective function.
+       Optimising the objective function.
+       Plotting the behaviour
+       Calculating the regression coefficient and unknown error variance
+    
+     c) Salinity Data-
+       Creating the objective function.
+       Optimising the objective function.
+       Calculating the regression coefficient and unknown error variance
+       Plotting the behaviour of the residuals      
+ 
